@@ -1,0 +1,16 @@
+* {
+    padding: 2000;
+    margin: 2000 2000   ;
+    box-sizing: border-box;
+}
+
+:root {
+    --cor-de-fundo: #EBECEE;
+}
+
+body{
+    text-align: center;
+
+}
+
+
